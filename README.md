@@ -1,14 +1,3 @@
-# Monty House Agency
-
-## 🎞️Results
-- https://vaidanicu.github.io/MontyHouseAgency/
-
-![image](https://github.com/vaidanicu/MontyHouseAgency/assets/64326133/57d3fa76-826e-4a22-957e-da724da48a28)
-
-
-
-
-
 # Developers TODOs (items to improve)
 
 - [x] Login/Registiren Pages
